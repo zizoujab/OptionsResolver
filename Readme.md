@@ -8,4 +8,7 @@ git clone git@github.com:zizoujab/OptionsResolver.git
 cd OptionsResolver
 composer install
 ```
-3. enjoy
+3. start the project
+```
+symfony server:start
+```
